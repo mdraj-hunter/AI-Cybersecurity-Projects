@@ -1,0 +1,627 @@
+[
+  {
+    "timestamp": "2026-02-21T21:24:40.331058",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.37",
+    "dst_addr": "192.168.1.88",
+    "src_port": 21,
+    "dst_port": 21781,
+    "packet_size": 664,
+    "tcp_flags": [
+      "SYN"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.341701",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.205",
+    "dst_addr": "192.168.1.72",
+    "src_port": 21,
+    "dst_port": 21633,
+    "packet_size": 1266,
+    "tcp_flags": [
+      "PSH",
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.352514",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.96",
+    "dst_addr": "192.168.1.76",
+    "src_port": 8080,
+    "dst_port": 19922,
+    "packet_size": 188,
+    "tcp_flags": [
+      "PSH",
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.363421",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.250",
+    "dst_addr": "192.168.1.170",
+    "src_port": 8080,
+    "dst_port": 20115,
+    "packet_size": 544,
+    "tcp_flags": [
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.374047",
+    "protocol": "icmp",
+    "src_addr": "192.168.1.110",
+    "dst_addr": "192.168.1.95",
+    "src_port": 3306,
+    "dst_port": 30089,
+    "packet_size": 1401,
+    "tcp_flags": [
+      "PSH",
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.384632",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.156",
+    "dst_addr": "192.168.1.113",
+    "src_port": 80,
+    "dst_port": 34532,
+    "packet_size": 268,
+    "tcp_flags": [
+      "SYN",
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.395628",
+    "protocol": "udp",
+    "src_addr": "192.168.1.78",
+    "dst_addr": "192.168.1.186",
+    "src_port": 443,
+    "dst_port": 33130,
+    "packet_size": 1352,
+    "tcp_flags": [
+      "PSH",
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.406110",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.73",
+    "dst_addr": "192.168.1.90",
+    "src_port": 8080,
+    "dst_port": 61625,
+    "packet_size": 1156,
+    "tcp_flags": [
+      "PSH",
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.416701",
+    "protocol": "udp",
+    "src_addr": "192.168.1.86",
+    "dst_addr": "192.168.1.61",
+    "src_port": 443,
+    "dst_port": 63450,
+    "packet_size": 522,
+    "tcp_flags": [
+      "PSH",
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.427483",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.41",
+    "dst_addr": "192.168.1.251",
+    "src_port": 443,
+    "dst_port": 38324,
+    "packet_size": 411,
+    "tcp_flags": [
+      "PSH",
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.438205",
+    "protocol": "udp",
+    "src_addr": "192.168.1.251",
+    "dst_addr": "192.168.1.9",
+    "src_port": 3000,
+    "dst_port": 30223,
+    "packet_size": 554,
+    "tcp_flags": [
+      "SYN",
+      "FIN"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.449300",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.110",
+    "dst_addr": "192.168.1.93",
+    "src_port": 80,
+    "dst_port": 22608,
+    "packet_size": 1324,
+    "tcp_flags": [
+      "PSH",
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.459972",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.181",
+    "dst_addr": "192.168.1.134",
+    "src_port": 3000,
+    "dst_port": 41201,
+    "packet_size": 523,
+    "tcp_flags": [
+      "SYN",
+      "URG"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.470754",
+    "protocol": "udp",
+    "src_addr": "192.168.1.245",
+    "dst_addr": "192.168.1.127",
+    "src_port": 22,
+    "dst_port": 26348,
+    "packet_size": 293,
+    "tcp_flags": [
+      "ACK",
+      "FIN"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.482000",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.233",
+    "dst_addr": "192.168.1.110",
+    "src_port": 3000,
+    "dst_port": 31370,
+    "packet_size": 1078,
+    "tcp_flags": [
+      "SYN",
+      "PSH"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.492861",
+    "protocol": "udp",
+    "src_addr": "192.168.1.176",
+    "dst_addr": "192.168.1.222",
+    "src_port": 443,
+    "dst_port": 31435,
+    "packet_size": 480,
+    "tcp_flags": [
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.504395",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.145",
+    "dst_addr": "192.168.1.159",
+    "src_port": 8080,
+    "dst_port": 51521,
+    "packet_size": 224,
+    "tcp_flags": [
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.515193",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.213",
+    "dst_addr": "192.168.1.173",
+    "src_port": 3306,
+    "dst_port": 47494,
+    "packet_size": 1105,
+    "tcp_flags": [
+      "PSH",
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.526291",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.146",
+    "dst_addr": "192.168.1.134",
+    "src_port": 8080,
+    "dst_port": 6318,
+    "packet_size": 1333,
+    "tcp_flags": [
+      "PSH",
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.537183",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.163",
+    "dst_addr": "192.168.1.134",
+    "src_port": 443,
+    "dst_port": 45727,
+    "packet_size": 370,
+    "tcp_flags": [
+      "PSH",
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.547990",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.225",
+    "dst_addr": "192.168.1.119",
+    "src_port": 8080,
+    "dst_port": 59796,
+    "packet_size": 538,
+    "tcp_flags": [
+      "PSH",
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.559065",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.73",
+    "dst_addr": "192.168.1.111",
+    "src_port": 3000,
+    "dst_port": 46690,
+    "packet_size": 186,
+    "tcp_flags": [
+      "SYN"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.569692",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.222",
+    "dst_addr": "192.168.1.147",
+    "src_port": 8080,
+    "dst_port": 61320,
+    "packet_size": 1378,
+    "tcp_flags": [
+      "PSH"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.580516",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.154",
+    "dst_addr": "192.168.1.180",
+    "src_port": 21,
+    "dst_port": 27593,
+    "packet_size": 523,
+    "tcp_flags": [
+      "RST"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.591193",
+    "protocol": "icmp",
+    "src_addr": "192.168.1.228",
+    "dst_addr": "192.168.1.83",
+    "src_port": 25,
+    "dst_port": 60561,
+    "packet_size": 975,
+    "tcp_flags": [
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.601645",
+    "protocol": "udp",
+    "src_addr": "192.168.1.133",
+    "dst_addr": "192.168.1.90",
+    "src_port": 53,
+    "dst_port": 57260,
+    "packet_size": 705,
+    "tcp_flags": [
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.612451",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.174",
+    "dst_addr": "192.168.1.146",
+    "src_port": 3306,
+    "dst_port": 59494,
+    "packet_size": 1397,
+    "tcp_flags": [
+      "PSH"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.622943",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.192",
+    "dst_addr": "192.168.1.171",
+    "src_port": 443,
+    "dst_port": 15903,
+    "packet_size": 1092,
+    "tcp_flags": [
+      "PSH",
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.633654",
+    "protocol": "udp",
+    "src_addr": "192.168.1.237",
+    "dst_addr": "192.168.1.13",
+    "src_port": 8080,
+    "dst_port": 29619,
+    "packet_size": 216,
+    "tcp_flags": [
+      "PSH",
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.644500",
+    "protocol": "udp",
+    "src_addr": "192.168.1.98",
+    "dst_addr": "192.168.1.95",
+    "src_port": 8080,
+    "dst_port": 11773,
+    "packet_size": 1157,
+    "tcp_flags": [
+      "SYN"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.655988",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.132",
+    "dst_addr": "192.168.1.170",
+    "src_port": 3306,
+    "dst_port": 38651,
+    "packet_size": 753,
+    "tcp_flags": [
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.666823",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.171",
+    "dst_addr": "192.168.1.47",
+    "src_port": 21,
+    "dst_port": 15970,
+    "packet_size": 722,
+    "tcp_flags": [
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.677695",
+    "protocol": "udp",
+    "src_addr": "192.168.1.230",
+    "dst_addr": "192.168.1.235",
+    "src_port": 3000,
+    "dst_port": 57747,
+    "packet_size": 529,
+    "tcp_flags": [
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.688671",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.253",
+    "dst_addr": "192.168.1.171",
+    "src_port": 25,
+    "dst_port": 1602,
+    "packet_size": 909,
+    "tcp_flags": [
+      "FIN"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.699445",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.158",
+    "dst_addr": "192.168.1.19",
+    "src_port": 3000,
+    "dst_port": 6634,
+    "packet_size": 861,
+    "tcp_flags": [
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.710194",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.201",
+    "dst_addr": "192.168.1.58",
+    "src_port": 3306,
+    "dst_port": 14987,
+    "packet_size": 256,
+    "tcp_flags": [
+      "SYN"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.720955",
+    "protocol": "udp",
+    "src_addr": "192.168.1.229",
+    "dst_addr": "192.168.1.65",
+    "src_port": 21,
+    "dst_port": 6793,
+    "packet_size": 470,
+    "tcp_flags": [
+      "RST"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.731819",
+    "protocol": "udp",
+    "src_addr": "192.168.1.64",
+    "dst_addr": "192.168.1.89",
+    "src_port": 8080,
+    "dst_port": 40387,
+    "packet_size": 126,
+    "tcp_flags": [
+      "PSH",
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.742521",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.95",
+    "dst_addr": "192.168.1.203",
+    "src_port": 443,
+    "dst_port": 22786,
+    "packet_size": 1185,
+    "tcp_flags": [
+      "SYN"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.754493",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.160",
+    "dst_addr": "192.168.1.142",
+    "src_port": 8080,
+    "dst_port": 34880,
+    "packet_size": 1492,
+    "tcp_flags": [
+      "PSH",
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.765343",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.160",
+    "dst_addr": "192.168.1.75",
+    "src_port": 3306,
+    "dst_port": 57784,
+    "packet_size": 507,
+    "tcp_flags": [
+      "SYN"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.776201",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.237",
+    "dst_addr": "192.168.1.185",
+    "src_port": 25,
+    "dst_port": 42305,
+    "packet_size": 1266,
+    "tcp_flags": [
+      "PSH",
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.787530",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.75",
+    "dst_addr": "192.168.1.203",
+    "src_port": 3306,
+    "dst_port": 45756,
+    "packet_size": 1187,
+    "tcp_flags": [
+      "SYN",
+      "URG"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.798295",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.111",
+    "dst_addr": "192.168.1.159",
+    "src_port": 3306,
+    "dst_port": 52479,
+    "packet_size": 867,
+    "tcp_flags": [
+      "FIN"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.809239",
+    "protocol": "udp",
+    "src_addr": "192.168.1.152",
+    "dst_addr": "192.168.1.56",
+    "src_port": 21,
+    "dst_port": 42104,
+    "packet_size": 643,
+    "tcp_flags": [
+      "SYN"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.819844",
+    "protocol": "icmp",
+    "src_addr": "192.168.1.16",
+    "dst_addr": "192.168.1.66",
+    "src_port": 8080,
+    "dst_port": 37496,
+    "packet_size": 1303,
+    "tcp_flags": [
+      "PSH",
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.830686",
+    "protocol": "udp",
+    "src_addr": "192.168.1.236",
+    "dst_addr": "192.168.1.131",
+    "src_port": 8080,
+    "dst_port": 31272,
+    "packet_size": 863,
+    "tcp_flags": [
+      "SYN"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.841519",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.174",
+    "dst_addr": "192.168.1.114",
+    "src_port": 3306,
+    "dst_port": 24136,
+    "packet_size": 794,
+    "tcp_flags": [
+      "SYN"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.852160",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.237",
+    "dst_addr": "192.168.1.158",
+    "src_port": 21,
+    "dst_port": 50630,
+    "packet_size": 991,
+    "tcp_flags": [
+      "PSH",
+      "ACK"
+    ]
+  },
+  {
+    "timestamp": "2026-02-21T21:24:40.863057",
+    "protocol": "tcp",
+    "src_addr": "192.168.1.178",
+    "dst_addr": "192.168.1.147",
+    "src_port": 53,
+    "dst_port": 30120,
+    "packet_size": 1478,
+    "tcp_flags": [
+      "RST"
+    ]
+  }
+]

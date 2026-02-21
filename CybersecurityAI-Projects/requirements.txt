@@ -1,0 +1,12 @@
+numpy>=1.19.0
+pandas>=1.1.0
+scikit-learn>=0.23.0
+matplotlib>=3.3.0
+seaborn>=0.11.0
+requests>=2.24.0
+beautifulsoup4>=4.9.0
+flask>=1.1.0
+scapy>=5.0.0
+dnspython>=2.0.0
+pefile>=2020.8.0
+xgboost>=1.4.0

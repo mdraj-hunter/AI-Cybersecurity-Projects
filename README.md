@@ -34,7 +34,7 @@ Converts binary data into grayscale images for classification using a Convolutio
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/mdraj-hunter/AI-Cybersecurity-projects.git
 cd CybersecurityAI-Projects
 Set up a Virtual Environment:
 
